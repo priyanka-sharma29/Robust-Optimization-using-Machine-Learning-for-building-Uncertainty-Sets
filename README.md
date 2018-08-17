@@ -14,6 +14,6 @@ All these methods result in uncertainty sets, which can be used to solve problem
 Built uncertainty sets for demand forecasting and solved the optimization problem of bike rebalancing within stations.
 
 ## File Description
-hubway_data_preparation file contains the analysis of Hubway data. The data is prepared in a generalized format which is taken as inputs for invoking the different methods of constructing uncertainty sets (decribed in methods_script file).
+hubway_data_preparation file contains the analysis of Hubway data. The data is prepared in a generalized format which is given as inputs for invoking the different methods of constructing uncertainty sets (decribed in methods_script file).
 
 methods_script file describes the different methods for constructing the sets. This script has methods which take inputs in a standardized format. Different dataset files can be feeded here to calculate the values of uncertainty sets.
